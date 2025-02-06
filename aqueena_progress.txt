@@ -1,0 +1,20 @@
+Day 1: 06/02/2025
+HTML Structure & Navigation
+__________________________________
+
+Tasks Completed:
+-> Set up the project folder and files (home.html, about.html, project.html, contact.html, style.css,/images,/screenshots).  
+-> Built header, footer & navigation menu for all pages.  
+-> Used  HTML tags (header, nav, section, footer).  
+-> Screenshots of the current updates have been included.
+
+Learned Today:  
+-> Importance of consistent navigation across pages.  
+-> How to structure a multi-page website.  
+-> Using relative links correctly (href="about.html").  
+
+Challenges:
+-> Keeping headers & footers identical across pages.  
+-> Ensuring the navigation menu was properly structured.  
+
+Commit----
