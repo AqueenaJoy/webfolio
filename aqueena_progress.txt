@@ -18,3 +18,24 @@ Challenges:
 -> Ensuring the navigation menu was properly structured.  
 
 Commit----
+
+Day 2: 07/02/2025
+Enhancing layout and styling
+__________________________________
+
+Tasks Completed:
+-> Designed and structured the pages.
+-> Improved the navigation bar styling.
+-> Styled the header, navbar, buttons, and sections. 
+-> Screenshots of the current updates have been included.
+
+Learned Today:  
+-> Used CSS gradients for a modern background.
+-> Learned how to apply different  CSS style properties like hover effects, transitions, positioning, flex etc.
+-> Using relative links correctly (href="about.html").  
+
+Challenges:
+-> Handling footer positioning to maintain a consistent layout  
+
+
+Commit----
