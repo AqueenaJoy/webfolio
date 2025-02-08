@@ -39,3 +39,25 @@ Challenges:
 
 
 Commit----
+
+Day 3: 08/02/2025
+Final touches and completions
+__________________________________
+
+Tasks Completed:
+-> Designed and structured the remaining pages. 
+-> Improved hover effects and transitions.
+-> Screenshots of the current updates have been included.
+
+Learned Today:  
+-> Learned to use CSS transitions and transforms for smooth animations.
+
+
+Commit----
+
+References
+-> W3Schools
+-> GeeksForGeeks
+-> GitHub
+-> ChatGpt
+-> CSS Gradient Generator

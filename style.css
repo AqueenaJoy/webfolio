@@ -130,7 +130,15 @@ nav ul li a:hover {
 .contact-section {
     text-align: center;
     padding: 30px;
-    margin-top: 10%;
+    background: rgba(255, 255, 255, 0.1);
+    width: 60%;
+    margin:10% auto;
+    border-radius: 10px;
+}
+.contact-section:hover {
+    transform: scale(1.05);
+    background: rgba(255, 255, 255, 0.2);
+
 }
 
 .contact-info {
@@ -146,6 +154,48 @@ nav ul li a:hover {
 
 .contact-info a:hover {
     color: #e67e22;
+}
+/* portfolio-section*/
+
+ 
+.portfolio-content {
+    width: 80%;
+    margin: 50px auto;
+    padding: 20px;
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 10px;
+    text-align: center;
+    
+}
+
+.portfolio-content h2 {
+    font-size: 32px;
+    margin-bottom: 20px;
+    border-bottom: 2px solid #f39c12;
+    display: inline-block;
+    padding-bottom: 10px;
+}
+
+
+.projects, .experiences, .edu, .certifications {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.project, .experience, .education, .certification {
+    width: 45%;
+    background: rgba(255, 255, 255, 0.1);
+    padding: 15px;
+    margin: 10px;
+    border-radius: 8px;
+    text-align: center;
+   
+}
+
+.project:hover, .experience:hover, .education:hover, .certification:hover {
+    transform: scale(1.05);
+    background: rgba(255, 255, 255, 0.2);
 }
 
 /* Footer */
